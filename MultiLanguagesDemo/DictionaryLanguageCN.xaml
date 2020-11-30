@@ -1,0 +1,15 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:MultiLanguagesDemo"
+    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="User">用户</system:String>
+    <system:String x:Key="Password">密码</system:String>
+    <system:String x:Key="Operator">操作员</system:String>
+    <system:String x:Key="Administrator">管理员</system:String>
+    <system:String x:Key="Engineer">程序员</system:String>
+    <system:String x:Key="Login">登录</system:String>
+    <system:String x:Key="Language">语言</system:String>
+    <system:String x:Key="Chinese">中文</system:String>
+    <system:String x:Key="English">英文</system:String>
+</ResourceDictionary>

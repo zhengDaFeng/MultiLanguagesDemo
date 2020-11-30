@@ -1,0 +1,17 @@
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\bin\Debug\MultiLanguagesDemo.exe.config
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\bin\Debug\MultiLanguagesDemo.exe
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\bin\Debug\MultiLanguagesDemo.pdb
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\MainWindow.g.cs
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\App.g.cs
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\MultiLanguagesDemo_MarkupCompile.cache
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\MultiLanguagesDemo_MarkupCompile.lref
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\App.baml
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\MainWindow.baml
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\MultiLanguagesDemo.g.resources
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\MultiLanguagesDemo.Properties.Resources.resources
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\MultiLanguagesDemo.csproj.GenerateResource.cache
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\MultiLanguagesDemo.csproj.CoreCompileInputs.cache
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\MultiLanguagesDemo.exe
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\MultiLanguagesDemo.pdb
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\DictionaryLanguageCN.baml
+C:\Users\zdfffg\Source\Repos\MultiLanguagesDemo\MultiLanguagesDemo\obj\Debug\DictionaryLanguageEN.baml
